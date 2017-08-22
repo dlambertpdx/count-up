@@ -1,0 +1,17 @@
+#nan1, #nan2, #lessThanZero1, #lessThanZero2, #tooBig {
+  display: none;
+  color: Crimson;
+  font-style: italic;
+}
+
+#output {
+  padding-top: 20px;
+  color: Teal;
+  font-size: 18px;
+}
+
+.jumbotron {
+  background-color: Olive;
+  color: OldLace;
+  text-align: center;
+}
